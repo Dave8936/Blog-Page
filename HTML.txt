@@ -1,15 +1,3 @@
-
-Conversation opened. 1 read message.
-
-Skip to content
-Using Gmail with screen readers
-
-Doo
-
-CrysTal_MerkzZ <fadairodavid@gmail.com>
-Jul 19, 2024, 10:22 PM (11 hours ago)
-to me
-
 <!DOCTYPE html>
 <html>
 <head>
